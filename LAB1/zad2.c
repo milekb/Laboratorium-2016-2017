@@ -6,11 +6,11 @@
 int main()
 {
 	char z;
-	z=getchar();
+	a = getchar();
 	while(z!=EOF)
 	{
-		printf("%c", z);
-   		z=getchar();
+		printf("%c", a);
+   		a = getchar();
 	}
 	return 0;
 }
