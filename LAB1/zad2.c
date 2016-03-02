@@ -5,7 +5,7 @@
 
 int main()
 {
-	char z;
+	char a;
 	a = getchar();
 	while(z!=EOF)
 	{
