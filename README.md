@@ -13,6 +13,12 @@ Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.u
   * [ ] [zadanie 3a](LAB2/zad3a.c)
   * [ ] [zadanie 3b](LAB2/zad3b.c)
 3. [Laboratorium 3](LAB3)
+  * [x] [zadanie 1](LAB2/zad1.c)
+  * [ ] [zadanie 2](LAB2/zad2.c)
+  * [ ] [zadanie 3](LAB2/zad3.c)
+  * [ ] [zadanie 4](LAB2/zad4.c)
+
+
 4. [Laboratorium 4](LAB4)
 5. [Laboratorium 5](LAB5)
 6. [Laboratorium 6](LAB6)
