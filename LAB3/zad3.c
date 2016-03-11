@@ -4,15 +4,16 @@
 
 int main(void)
 {
-short a = SHRT_MIN, b = SHRT_MAX;
-int c = INT_MIN, d = INT_MAX;
-long e = LONG_MIN, f = LONG_MAX;
-long long g = LLONG_MIN, h = LLONG_MAX;
-float i = FLT_MIN, j = FLT_MAX;
+short b = SHRT_MAX;
+int d = INT_MAX;
+long f = LONG_MAX;
+long long h = LLONG_MAX;
+float j = FLT_MAX;
 
 printf("Short do int: %i\n", (short)d);
-printf("Int do ")(int)
-(long)
-(long long)
+printf("Int do long: %i\n"), (int)f);
+printf("Long do long long: %li", (long)h);
+printf("Long long do float: %lli", (long long)j);
+
 return 0;
 }
