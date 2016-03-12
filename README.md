@@ -9,7 +9,7 @@ Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.u
 
 2. [Laboratorium 2](LAB2)
   * [x] [zadanie 1](LAB2/zad1.c) - brak błędów
-  * [ ] [zadanie 2](LAB2/zad2.c)
+  * [x] [zadanie 2](LAB2/zad2.c)
   * [ ] [zadanie 3a](LAB2/zad3a.c)
   * [ ] [zadanie 3b](LAB2/zad3b.c)
 3. [Laboratorium 3](LAB3)
