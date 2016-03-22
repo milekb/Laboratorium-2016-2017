@@ -18,8 +18,8 @@ Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.u
   * [x] [zadanie 3](LAB3/zad3.c) - brak błędów
   * [x] [zadanie 4](LAB3/zad4.c) - brak błędów
 4. [Laboratorium 4](LAB4)
-  * [ ] [zadanie 1](LAB4/zad1.c)
-  * [ ] [zadanie 2](LAB4/zad2.c)
+  * [x] [zadanie 1](LAB4/zad1.c)
+  * [x] [zadanie 2](LAB4/zad2.c)
 5. [Laboratorium 5](LAB5)
   * [ ] [zadanie 1](LAB5/zad1.c)
   * [ ] [zadanie 2](LAB5/zad2.c)
