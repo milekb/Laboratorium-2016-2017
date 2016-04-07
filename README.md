@@ -1,6 +1,7 @@
 #Laboratorium - Języki Programowania
 
 Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
+
 |        TYP| ROZMIAR|                  MIN|                  MAX|       ZIARNO|  PRECYZJA|
 |-----------|--------|---------------------|---------------------|-------------|----------|
 |      short|       2|               -32768|                32767|             |          |
