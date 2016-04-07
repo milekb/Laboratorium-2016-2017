@@ -1,6 +1,16 @@
 #Laboratorium - Języki Programowania
 
 Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
+|        TYP| ROZMIAR|                  MIN|                  MAX|       ZIARNO|  PRECYZJA|
+|-----------|--------|---------------------|---------------------|-------------|----------|
+|      short|       2|               -32768|                32767|             |          |
+|        int|       4|          -2147483648|           2147483647|             |          |
+|       long|       8| -9223372036854775808|  9223372036854775807|             |          |
+|  long long|       8| -9223372036854775808|  9223372036854775807|             |          |
+|      float|       4|         1.175494e-38|         3.402823e+38| 1.192093e-07|         6|
+|     double|       8|        2.225074e-308|        1.797693e+308| 2.220446e-16|        15|
+|long double|      16|       3.362103e-4932|       1.189731e+4932| 1.084202e-19|        18|
+
 
 1. [Laboratorium 1](LAB1) 
   * [x] [zadanie 1](LAB1/zad1.c)
@@ -21,8 +31,8 @@ Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.u
   * [x] [zadanie 1](LAB4/zad1.c)
   * [x] [zadanie 2](LAB4/zad2.c)
 5. [Laboratorium 5](LAB5)
-  * [ ] [zadanie 1](LAB5/zad1.c)
-  * [ ] [zadanie 2](LAB5/zad2.c)
+  * [x] [zadanie 1](LAB5/zad1.c)
+  * [x] [zadanie 2](LAB5/zad2.c)
 6. [Laboratorium 6](LAB6)
   * [ ] [zadanie 1](LAB6/zad1.c)
   * [ ] [zadanie 2](LAB6/zad2.c)
