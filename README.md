@@ -33,7 +33,7 @@ Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.u
   * [x] [zadanie 2](LAB4/zad2.c)
 5. [Laboratorium 5](LAB5)
   * [x] [zadanie 1](LAB5/zad1.c)
-  * [x] [zadanie 2](LAB5/zad2.c)
+  * [x] [zadanie 2](LAB5/zad2.c) - dorobić tablice dynamiczne
 6. [Laboratorium 6](LAB6)
   * [ ] [zadanie 1](LAB6/zad1.c)
   * [ ] [zadanie 2](LAB6/zad2.c)
