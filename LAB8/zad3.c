@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#define CZYT(zm,tp) printf("Podaj zmienna %s: ", #zm);scanf("%"#tp,&zm);
+#define CZYT(zm,tp) printf("Podaj zmienna %s: ", #zm); scanf("%"#tp,&zm);
 int main()
 {
   double a;
