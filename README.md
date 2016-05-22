@@ -2,7 +2,7 @@
 
 #Laboratorium - Języki Programowania
 
-Jeśli byłąby taka możliowść to prosiłbym o sprawdzenie repozytorium w późniejszym terminie. Ja przygotuję repozytorium do piątku 27.05.2016!!
+
 Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
 |        TYP| ROZMIAR|                  MIN|                  MAX|       ZIARNO|  PRECYZJA|
@@ -15,7 +15,7 @@ Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.u
 |     double|       8|        2.225074e-308|        1.797693e+308| 2.220446e-16|        15|
 |long double|      16|       3.362103e-4932|       1.189731e+4932| 1.084202e-19|        18|
 
-
+Jeśli byłąby taka możliowść to prosiłbym o sprawdzenie repozytorium w późniejszym terminie. Ja przygotuję repozytorium do piątku 27.05.2016!!
 1. [Laboratorium 1](LAB1) 
   * [x] [zadanie 1](LAB1/zad1.c)
   * [x] [zadanie 2](LAB1/zad2.c)
