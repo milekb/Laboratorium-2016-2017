@@ -16,6 +16,7 @@ Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.u
 |long double|      16|       3.362103e-4932|       1.189731e+4932| 1.084202e-19|        18|
 
 Jeśli byłąby taka możliowść to prosiłbym o sprawdzenie repozytorium w późniejszym terminie. Ja przygotuję repozytorium do piątku 27.05.2016!!
+
 1. [Laboratorium 1](LAB1) 
   * [x] [zadanie 1](LAB1/zad1.c)
   * [x] [zadanie 2](LAB1/zad2.c)
