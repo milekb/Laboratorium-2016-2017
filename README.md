@@ -1,7 +1,8 @@
-Jeśli byłąby taka możliowść to prosiłbym o sprawdzenie repozytorium w późniejszym terminie. Ja przygotuję repozytorium do piątku 27.05.2016.
+
 
 #Laboratorium - Języki Programowania
 
+Jeśli byłąby taka możliowść to prosiłbym o sprawdzenie repozytorium w późniejszym terminie. Ja przygotuję repozytorium do piątku 27.05.2016!!
 Na laboratorium korzystamy z materiałów: [dr Stefan Sokołowski](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
 |        TYP| ROZMIAR|                  MIN|                  MAX|       ZIARNO|  PRECYZJA|
