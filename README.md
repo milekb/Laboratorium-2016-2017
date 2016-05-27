@@ -57,7 +57,7 @@ Jeśli byłaby taka możliowść to prosiłbym o sprawdzenie repozytorium w pó�
   * [x] [zadanie 3](LAB9/zad3.c)
   * [x] [zadanie 4](LAB9/zad4.c)
 10. [Laboratorium 10](LAB10)
-  * [ x] [zadanie 1](LAB10/zad1.c)
+  * [x] [zadanie 1](LAB10/zad1.c)
   * [x] [zadanie 2](LAB10/zad2.c)
   * [x] [zadanie 3](LAB10/zad3.c)
   * [x] [zadanie 4](LAB10/zad4.c)
